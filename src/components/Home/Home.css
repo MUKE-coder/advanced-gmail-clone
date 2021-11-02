@@ -1,0 +1,7 @@
+.home {
+  background-image: url("https://cdn.pixabay.com/photo/2020/06/14/18/53/hamburg-5298969__340.jpg");
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+}
